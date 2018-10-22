@@ -1,2 +1,2 @@
-# study_statistics
-practice for statistics (semester 1)
+# Financial_Engineering
+Financial Engineering Class (semester 2)
